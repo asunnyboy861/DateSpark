@@ -56,9 +56,12 @@
 - Privacy Policy: ✅
 - Terms of Use: ✅ (REQUIRED for subscription apps)
 
+## App Store Connect Pricing
+- **Price Tier**: Free (with In-App Purchases)
+
 ## Apple IAP Compliance Checklist
-- [ ] Auto-renewal terms included in Terms
-- [ ] Cancellation instructions included
-- [ ] Pricing clearly stated
-- [ ] Free trial terms included
-- [ ] Restore purchases functionality implemented
+- [x] Auto-renewal terms included in Terms
+- [x] Cancellation instructions included
+- [x] Pricing clearly stated
+- [x] Free trial terms included
+- [x] Restore purchases functionality implemented
